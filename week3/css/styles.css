@@ -1,0 +1,21 @@
+body { padding-top: 70px; }
+
+
+.section-tile {
+
+  border: 1px solid black;
+  background-color: gray;
+  font-family: Helvetica;
+  color: black;
+  padding: 0 10px 5px 10px;
+  width: 80%;
+  margin: 0 10% 25px 10%;
+}
+
+
+.section-tile .title {
+  font-size: 1.3em;
+  text-align: center; 
+  color: white;
+}
+
